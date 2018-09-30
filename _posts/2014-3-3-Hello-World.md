@@ -3,6 +3,6 @@ layout: post
 title: Welcome to my blog!
 ---
 
-Project List:
+## Project List:
 
-1. Project Benson
+#1. Project Benson
